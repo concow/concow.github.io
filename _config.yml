@@ -1,11 +1,11 @@
 # Site settings
 author: Connor Cowan
-title: 
+title: Programming Journey
 header-img: img/home-bg.png
 email: ccowan003@comcast.net
 copyright_name: Connor Cowan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  For me
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  concow
