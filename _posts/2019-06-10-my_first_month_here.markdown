@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First Month Here"
-date:       2019-06-10 20:12:54 +0000
+date:       2019-06-10 16:12:54 -0400
 permalink:  my_first_month_here
 ---
 
