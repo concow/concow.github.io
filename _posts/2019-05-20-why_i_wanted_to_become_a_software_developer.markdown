@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**Why I wanted to become a Software Developer**"
+title:      "Why I wanted to become a Software Developer"
 date:       2019-05-20 16:33:17 -0400
 permalink:  why_i_wanted_to_become_a_software_developer
 ---
